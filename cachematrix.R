@@ -1,7 +1,7 @@
 
 
 # this function takes a numeric matrix and stores it in the cache environment
-makeCacheMatrix <- function(x = numeric()) {
+makeCacheMatrix <- function(x = matrix()) {
     
     # set i variable in local environment
     i <- NULL
